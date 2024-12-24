@@ -9,10 +9,10 @@ Immediate Feedback: Users receive instant feedback on their performance, helping
 Score Analysis: Displays the total score along with correct and incorrect answers.
 Responsive Design: Optimized for desktops, tablets, and mobile devices.
 Technologies Used
-HTML: For structuring the application.
-CSS: For designing the layout and styling the interface.
-JavaScript: For implementing logic and interactivity.
-Getting Started
+**HTML**: For structuring the application.
+**CSS**: For designing the layout and styling the interface.
+**JavaScript**: For implementing logic and interactivity.
+**Getting Started**
 Prerequisites
 A device with a web browser (e.g., Chrome, Firefox).
 Installation
@@ -21,19 +21,18 @@ bash
 Copy code
 https://github.com/gangwarankit226
 Open the project folder and launch index.html in your browser.
-Usage
+**Usage**
 Open the app in a browser on any device.
 Click the Start button to begin the quiz.
 Select an answer for each question.
 Submit your answers to receive instant feedback and view your score.
 Review your results and restart the quiz if you want to try again.
-Screenshots
-Add screenshots or GIFs of your app interface here.
 
-Future Enhancements
+
+**Future Enhancements**
 Add a timer for each question.
 Allow users to select quiz topics.
 Enable a scoreboard to track high scores.
 Include animations for a more engaging user experience.
-License
+**License**
 This project is licensed under the MIT License.
