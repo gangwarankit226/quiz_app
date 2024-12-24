@@ -19,7 +19,7 @@ Installation
 Clone this repository:
 bash
 Copy code
-git clone https://github.com/gangwarankit226/quiz-app.git  
+https://github.com/gangwarankit226
 Open the project folder and launch index.html in your browser.
 Usage
 Open the app in a browser on any device.
